@@ -1,0 +1,13 @@
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\bin\Debug\netcoreapp3.1\CadastroPessoaTxtApp.exe
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\bin\Debug\netcoreapp3.1\CadastroPessoaTxtApp.deps.json
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\bin\Debug\netcoreapp3.1\CadastroPessoaTxtApp.runtimeconfig.json
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\bin\Debug\netcoreapp3.1\CadastroPessoaTxtApp.runtimeconfig.dev.json
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\bin\Debug\netcoreapp3.1\CadastroPessoaTxtApp.dll
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\bin\Debug\netcoreapp3.1\CadastroPessoaTxtApp.pdb
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\obj\Debug\netcoreapp3.1\CadastroPessoaTxtApp.csproj.AssemblyReference.cache
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\obj\Debug\netcoreapp3.1\CadastroPessoaTxtApp.AssemblyInfoInputs.cache
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\obj\Debug\netcoreapp3.1\CadastroPessoaTxtApp.AssemblyInfo.cs
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\obj\Debug\netcoreapp3.1\CadastroPessoaTxtApp.csproj.CoreCompileInputs.cache
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\obj\Debug\netcoreapp3.1\CadastroPessoaTxtApp.dll
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\obj\Debug\netcoreapp3.1\CadastroPessoaTxtApp.pdb
+C:\Users\Scorpion\source\repos\CadastroPessoaTxtApp\obj\Debug\netcoreapp3.1\CadastroPessoaTxtApp.genruntimeconfig.cache
